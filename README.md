@@ -1,1 +1,1 @@
-# XRay_Analysis
+# Heart disease prediction
