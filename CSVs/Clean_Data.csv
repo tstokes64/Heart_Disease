@@ -1,0 +1,304 @@
+,Age,Gender,Chest Pain Type,Resting Blood Pressure (mmHg),Serum Cholestorol (mg/dl),Fasting Blood Sugar > 120 mg/dl,Resting Electrocardiographic Results,Maximum Heart Rate Achieved,Exercise Induced Angina,ST Depression (induced by exercise relative to rest),Slope of the Peak Exercise ST Segment,Vessels Colored by Fluoroscopy,Thalium Stress Test Result,Diagnosis of Heart Disease (Angiographic Disease Status)
+0,63,Male,Non-Anginal,145,233,TRUE,Normal,150,No,2.3,Missing,0,Normal,Normal
+1,37,Male,Atypical,130,250,FALSE,ST-T Wave Abnormality,187,No,3.5,Missing,0,Fixed Defect,Normal
+2,41,Female,Typical,130,204,FALSE,Normal,172,No,1.4,Flat,0,Fixed Defect,Normal
+3,56,Male,Typical,120,236,FALSE,ST-T Wave Abnormality,178,No,0.8,Flat,0,Fixed Defect,Normal
+4,57,Female,0,120,354,FALSE,ST-T Wave Abnormality,163,Yes,0.6,Flat,0,Fixed Defect,Normal
+5,57,Male,0,140,192,FALSE,ST-T Wave Abnormality,148,No,0.4,Upsloping,0,Normal,Normal
+6,56,Female,Typical,140,294,FALSE,Normal,153,No,1.3,Upsloping,0,Fixed Defect,Normal
+7,44,Male,Typical,120,263,FALSE,ST-T Wave Abnormality,173,No,0,Flat,0,Reversable Defect,Normal
+8,52,Male,Atypical,172,199,TRUE,ST-T Wave Abnormality,162,No,0.5,Flat,0,Reversable Defect,Normal
+9,57,Male,Atypical,150,168,FALSE,ST-T Wave Abnormality,174,No,1.6,Flat,0,Fixed Defect,Normal
+10,54,Male,0,140,239,FALSE,ST-T Wave Abnormality,160,No,1.2,Flat,0,Fixed Defect,Normal
+11,48,Female,Atypical,130,275,FALSE,ST-T Wave Abnormality,139,No,0.2,Flat,0,Fixed Defect,Normal
+12,49,Male,Typical,130,266,FALSE,ST-T Wave Abnormality,171,No,0.6,Flat,0,Fixed Defect,Normal
+13,64,Male,Non-Anginal,110,211,FALSE,Normal,144,Yes,1.8,Upsloping,0,Fixed Defect,Normal
+14,58,Female,Non-Anginal,150,283,TRUE,Normal,162,No,1,Flat,0,Fixed Defect,Normal
+15,50,Female,Atypical,120,219,FALSE,ST-T Wave Abnormality,158,No,1.6,Upsloping,0,Fixed Defect,Normal
+16,58,Female,Atypical,120,340,FALSE,ST-T Wave Abnormality,172,No,0,Flat,0,Fixed Defect,Normal
+17,66,Female,Non-Anginal,150,226,FALSE,ST-T Wave Abnormality,114,No,2.6,Missing,0,Fixed Defect,Normal
+18,43,Male,0,150,247,FALSE,ST-T Wave Abnormality,171,No,1.5,Flat,0,Fixed Defect,Normal
+19,69,Female,Non-Anginal,140,239,FALSE,ST-T Wave Abnormality,151,No,1.8,Flat,2,Fixed Defect,Normal
+20,59,Male,0,135,234,FALSE,ST-T Wave Abnormality,161,No,0.5,Upsloping,0,Reversable Defect,Normal
+21,44,Male,Atypical,130,233,FALSE,ST-T Wave Abnormality,179,Yes,0.4,Flat,0,Fixed Defect,Normal
+22,42,Male,0,140,226,FALSE,ST-T Wave Abnormality,178,No,0,Flat,0,Fixed Defect,Normal
+23,61,Male,Atypical,150,243,TRUE,ST-T Wave Abnormality,137,Yes,1,Upsloping,0,Fixed Defect,Normal
+24,40,Male,Non-Anginal,140,199,FALSE,ST-T Wave Abnormality,178,Yes,1.4,Flat,0,Reversable Defect,Normal
+25,71,Female,Typical,160,302,FALSE,ST-T Wave Abnormality,162,No,0.4,Flat,2,Fixed Defect,Normal
+26,59,Male,Atypical,150,212,TRUE,ST-T Wave Abnormality,157,No,1.6,Flat,0,Fixed Defect,Normal
+27,51,Male,Atypical,110,175,FALSE,ST-T Wave Abnormality,123,No,0.6,Flat,0,Fixed Defect,Normal
+28,65,Female,Atypical,140,417,TRUE,Normal,157,No,0.8,Flat,1,Fixed Defect,Normal
+29,53,Male,Atypical,130,197,TRUE,Normal,152,No,1.2,Missing,0,Fixed Defect,Normal
+30,41,Female,Typical,105,198,FALSE,ST-T Wave Abnormality,168,No,0,Flat,1,Fixed Defect,Normal
+31,65,Male,0,120,177,FALSE,ST-T Wave Abnormality,140,No,0.4,Flat,0,Reversable Defect,Normal
+32,44,Male,Typical,130,219,FALSE,Normal,188,No,0,Flat,0,Fixed Defect,Normal
+33,54,Male,Atypical,125,273,FALSE,Normal,152,No,0.5,Missing,1,Fixed Defect,Normal
+34,51,Male,Non-Anginal,125,213,FALSE,Normal,125,Yes,1.4,Flat,1,Fixed Defect,Normal
+35,46,Female,Atypical,142,177,FALSE,Normal,160,Yes,1.4,Missing,0,Fixed Defect,Normal
+36,54,Female,Atypical,135,304,TRUE,ST-T Wave Abnormality,170,No,0,Flat,0,Fixed Defect,Normal
+37,54,Male,Atypical,150,232,FALSE,Normal,165,No,1.6,Flat,0,Reversable Defect,Normal
+38,65,Female,Atypical,155,269,FALSE,ST-T Wave Abnormality,148,No,0.8,Flat,0,Fixed Defect,Normal
+39,65,Female,Atypical,160,360,FALSE,Normal,151,No,0.8,Flat,0,Fixed Defect,Normal
+40,51,Female,Atypical,140,308,FALSE,Normal,142,No,1.5,Flat,1,Fixed Defect,Normal
+41,48,Male,Typical,130,245,FALSE,Normal,180,No,0.2,Upsloping,0,Fixed Defect,Normal
+42,45,Male,0,104,208,FALSE,Normal,148,Yes,3,Upsloping,0,Fixed Defect,Normal
+43,53,Female,0,130,264,FALSE,Normal,143,No,0.4,Upsloping,0,Fixed Defect,Normal
+44,39,Male,Atypical,140,321,FALSE,Normal,182,No,0,Flat,0,Fixed Defect,Normal
+45,52,Male,Typical,120,325,FALSE,ST-T Wave Abnormality,172,No,0.2,Flat,0,Fixed Defect,Normal
+46,44,Male,Atypical,140,235,FALSE,Normal,180,No,0,Flat,0,Fixed Defect,Normal
+47,47,Male,Atypical,138,257,FALSE,Normal,156,No,0,Flat,0,Fixed Defect,Normal
+48,53,Female,Atypical,128,216,FALSE,Normal,115,No,0,Flat,0,Missing,Normal
+49,53,Female,0,138,234,FALSE,Normal,160,No,0,Flat,0,Fixed Defect,Normal
+50,51,Female,Atypical,130,256,FALSE,Normal,149,No,0.5,Flat,0,Fixed Defect,Normal
+51,66,Male,0,120,302,FALSE,Normal,151,No,0.4,Upsloping,0,Fixed Defect,Normal
+52,62,Male,Atypical,130,231,FALSE,ST-T Wave Abnormality,146,No,1.8,Upsloping,3,Reversable Defect,Normal
+53,44,Female,Atypical,108,141,FALSE,ST-T Wave Abnormality,175,No,0.6,Upsloping,0,Fixed Defect,Normal
+54,63,Female,Atypical,135,252,FALSE,Normal,172,No,0,Flat,0,Fixed Defect,Normal
+55,52,Male,Typical,134,201,FALSE,ST-T Wave Abnormality,158,No,0.8,Flat,1,Fixed Defect,Normal
+56,48,Male,0,122,222,FALSE,Normal,186,No,0,Flat,0,Fixed Defect,Normal
+57,45,Male,0,115,260,FALSE,Normal,185,No,0,Flat,0,Fixed Defect,Normal
+58,34,Male,Non-Anginal,118,182,FALSE,Normal,174,No,0,Flat,0,Fixed Defect,Normal
+59,57,Female,0,128,303,FALSE,Normal,159,No,0,Flat,1,Fixed Defect,Normal
+60,71,Female,Atypical,110,265,TRUE,Normal,130,No,0,Flat,1,Fixed Defect,Normal
+61,54,Male,Typical,108,309,FALSE,ST-T Wave Abnormality,156,No,0,Flat,0,Reversable Defect,Normal
+62,52,Male,Non-Anginal,118,186,FALSE,Normal,190,No,0,Upsloping,0,Normal,Normal
+63,41,Male,Typical,135,203,FALSE,ST-T Wave Abnormality,132,No,0,Upsloping,0,Normal,Normal
+64,58,Male,Atypical,140,211,TRUE,Normal,165,No,0,Flat,0,Fixed Defect,Normal
+65,35,Female,0,138,183,FALSE,ST-T Wave Abnormality,182,No,1.4,Flat,0,Fixed Defect,Normal
+66,51,Male,Atypical,100,222,FALSE,ST-T Wave Abnormality,143,Yes,1.2,Upsloping,0,Fixed Defect,Normal
+67,45,Female,Typical,130,234,FALSE,Normal,175,No,0.6,Upsloping,0,Fixed Defect,Normal
+68,44,Male,Typical,120,220,FALSE,ST-T Wave Abnormality,170,No,0,Flat,0,Fixed Defect,Normal
+69,62,Female,0,124,209,FALSE,ST-T Wave Abnormality,163,No,0,Flat,0,Fixed Defect,Normal
+70,54,Male,Atypical,120,258,FALSE,Normal,147,No,0.4,Upsloping,0,Reversable Defect,Normal
+71,51,Male,Atypical,94,227,FALSE,ST-T Wave Abnormality,154,Yes,0,Flat,1,Reversable Defect,Normal
+72,29,Male,Typical,130,204,FALSE,Normal,202,No,0,Flat,0,Fixed Defect,Normal
+73,51,Male,0,140,261,FALSE,Normal,186,Yes,0,Flat,0,Fixed Defect,Normal
+74,43,Female,Atypical,122,213,FALSE,ST-T Wave Abnormality,165,No,0.2,Upsloping,0,Fixed Defect,Normal
+75,55,Female,Typical,135,250,FALSE,Normal,161,No,1.4,Upsloping,0,Fixed Defect,Normal
+76,51,Male,Atypical,125,245,TRUE,Normal,166,No,2.4,Upsloping,0,Fixed Defect,Normal
+77,59,Male,Typical,140,221,FALSE,ST-T Wave Abnormality,164,Yes,0,Flat,0,Fixed Defect,Normal
+78,52,Male,Typical,128,205,TRUE,ST-T Wave Abnormality,184,No,0,Flat,0,Fixed Defect,Normal
+79,58,Male,Atypical,105,240,FALSE,Normal,154,Yes,0.6,Upsloping,0,Reversable Defect,Normal
+80,41,Male,Atypical,112,250,FALSE,ST-T Wave Abnormality,179,No,0,Flat,0,Fixed Defect,Normal
+81,45,Male,Typical,128,308,FALSE,Normal,170,No,0,Flat,0,Fixed Defect,Normal
+82,60,Female,Atypical,102,318,FALSE,ST-T Wave Abnormality,160,No,0,Flat,1,Fixed Defect,Normal
+83,52,Male,Non-Anginal,152,298,TRUE,ST-T Wave Abnormality,178,No,1.2,Upsloping,0,Reversable Defect,Normal
+84,42,Female,0,102,265,FALSE,Normal,122,No,0.6,Upsloping,0,Fixed Defect,Normal
+85,67,Female,Atypical,115,564,FALSE,Normal,160,No,1.6,Upsloping,0,Reversable Defect,Normal
+86,68,Male,Atypical,118,277,FALSE,ST-T Wave Abnormality,151,No,1,Flat,1,Reversable Defect,Normal
+87,46,Male,Typical,101,197,TRUE,ST-T Wave Abnormality,156,No,0,Flat,0,Reversable Defect,Normal
+88,54,Female,Atypical,110,214,FALSE,ST-T Wave Abnormality,158,No,1.6,Upsloping,0,Fixed Defect,Normal
+89,58,Female,0,100,248,FALSE,Normal,122,No,1,Upsloping,0,Fixed Defect,Normal
+90,48,Male,Atypical,124,255,TRUE,ST-T Wave Abnormality,175,No,0,Flat,2,Fixed Defect,Normal
+91,57,Male,0,132,207,FALSE,ST-T Wave Abnormality,168,Yes,0,Flat,0,Reversable Defect,Normal
+92,52,Male,Atypical,138,223,FALSE,ST-T Wave Abnormality,169,No,0,Flat,4,Fixed Defect,Normal
+93,54,Female,Typical,132,288,TRUE,Normal,159,Yes,0,Flat,1,Fixed Defect,Normal
+94,45,Female,Typical,112,160,FALSE,ST-T Wave Abnormality,138,No,0,Upsloping,0,Fixed Defect,Normal
+95,53,Male,0,142,226,FALSE,Normal,111,Yes,0,Flat,0,Reversable Defect,Normal
+96,62,Female,0,140,394,FALSE,Normal,157,No,1.2,Upsloping,0,Fixed Defect,Normal
+97,52,Male,0,108,233,TRUE,ST-T Wave Abnormality,147,No,0.1,Flat,3,Reversable Defect,Normal
+98,43,Male,Atypical,130,315,FALSE,ST-T Wave Abnormality,162,No,1.9,Flat,1,Fixed Defect,Normal
+99,53,Male,Atypical,130,246,TRUE,Normal,173,No,0,Flat,3,Fixed Defect,Normal
+100,42,Male,Non-Anginal,148,244,FALSE,Normal,178,No,0.8,Flat,2,Fixed Defect,Normal
+101,59,Male,Non-Anginal,178,270,FALSE,Normal,145,No,4.2,Missing,0,Reversable Defect,Normal
+102,63,Female,Typical,140,195,FALSE,ST-T Wave Abnormality,179,No,0,Flat,2,Fixed Defect,Normal
+103,42,Male,Atypical,120,240,TRUE,ST-T Wave Abnormality,194,No,0.8,Missing,0,Reversable Defect,Normal
+104,50,Male,Atypical,129,196,FALSE,ST-T Wave Abnormality,163,No,0,Flat,0,Fixed Defect,Normal
+105,68,Female,Atypical,120,211,FALSE,Normal,115,No,1.5,Upsloping,0,Fixed Defect,Normal
+106,69,Male,Non-Anginal,160,234,TRUE,Normal,131,No,0.1,Upsloping,1,Fixed Defect,Normal
+107,45,Female,0,138,236,FALSE,Normal,152,Yes,0.2,Upsloping,0,Fixed Defect,Normal
+108,50,Female,Typical,120,244,FALSE,ST-T Wave Abnormality,162,No,1.1,Flat,0,Fixed Defect,Normal
+109,50,Female,0,110,254,FALSE,Normal,159,No,0,Flat,0,Fixed Defect,Normal
+110,64,Female,0,180,325,FALSE,ST-T Wave Abnormality,154,Yes,0,Flat,0,Fixed Defect,Normal
+111,57,Male,Atypical,150,126,TRUE,ST-T Wave Abnormality,173,No,0.2,Flat,1,Reversable Defect,Normal
+112,64,Female,Atypical,140,313,FALSE,ST-T Wave Abnormality,133,No,0.2,Flat,0,Reversable Defect,Normal
+113,43,Male,0,110,211,FALSE,ST-T Wave Abnormality,161,No,0,Flat,0,Reversable Defect,Normal
+114,55,Male,Typical,130,262,FALSE,ST-T Wave Abnormality,155,No,0,Flat,0,Fixed Defect,Normal
+115,37,Female,Atypical,120,215,FALSE,ST-T Wave Abnormality,170,No,0,Flat,0,Fixed Defect,Normal
+116,41,Male,Atypical,130,214,FALSE,Normal,168,No,2,Upsloping,0,Fixed Defect,Normal
+117,56,Male,Non-Anginal,120,193,FALSE,Normal,162,No,1.9,Upsloping,0,Reversable Defect,Normal
+118,46,Female,Typical,105,204,FALSE,ST-T Wave Abnormality,172,No,0,Flat,0,Fixed Defect,Normal
+119,46,Female,0,138,243,FALSE,Normal,152,Yes,0,Upsloping,0,Fixed Defect,Normal
+120,64,Female,0,130,303,FALSE,ST-T Wave Abnormality,122,No,2,Upsloping,2,Fixed Defect,Normal
+121,59,Male,0,138,271,FALSE,Normal,182,No,0,Flat,0,Fixed Defect,Normal
+122,41,Female,Atypical,112,268,FALSE,Normal,172,Yes,0,Flat,0,Fixed Defect,Normal
+123,54,Female,Atypical,108,267,FALSE,Normal,167,No,0,Flat,0,Fixed Defect,Normal
+124,39,Female,Atypical,94,199,FALSE,ST-T Wave Abnormality,179,No,0,Flat,0,Fixed Defect,Normal
+125,34,Female,Typical,118,210,FALSE,ST-T Wave Abnormality,192,No,0.7,Flat,0,Fixed Defect,Normal
+126,47,Male,0,112,204,FALSE,ST-T Wave Abnormality,143,No,0.1,Flat,0,Fixed Defect,Normal
+127,67,Female,Atypical,152,277,FALSE,ST-T Wave Abnormality,172,No,0,Flat,1,Fixed Defect,Normal
+128,52,Female,Atypical,136,196,FALSE,Normal,169,No,0.1,Upsloping,0,Fixed Defect,Normal
+129,74,Female,Typical,120,269,FALSE,Normal,121,Yes,0.2,Flat,1,Fixed Defect,Normal
+130,54,Female,Atypical,160,201,FALSE,ST-T Wave Abnormality,163,No,0,Flat,1,Fixed Defect,Normal
+131,49,Female,Typical,134,271,FALSE,ST-T Wave Abnormality,162,No,0,Upsloping,0,Fixed Defect,Normal
+132,42,Male,Typical,120,295,FALSE,ST-T Wave Abnormality,162,No,0,Flat,0,Fixed Defect,Normal
+133,41,Male,Typical,110,235,FALSE,ST-T Wave Abnormality,153,No,0,Flat,0,Fixed Defect,Normal
+134,41,Female,Typical,126,306,FALSE,ST-T Wave Abnormality,163,No,0,Flat,0,Fixed Defect,Normal
+135,49,Female,0,130,269,FALSE,ST-T Wave Abnormality,163,No,0,Flat,0,Fixed Defect,Normal
+136,60,Female,Atypical,120,178,TRUE,ST-T Wave Abnormality,96,No,0,Flat,0,Fixed Defect,Normal
+137,62,Male,Typical,128,208,TRUE,Normal,140,No,0,Flat,0,Fixed Defect,Normal
+138,57,Male,0,110,201,FALSE,ST-T Wave Abnormality,126,Yes,1.5,Upsloping,0,Normal,Normal
+139,64,Male,0,128,263,FALSE,ST-T Wave Abnormality,105,Yes,0.2,Upsloping,1,Reversable Defect,Normal
+140,51,Female,Atypical,120,295,FALSE,Normal,157,No,0.6,Flat,0,Fixed Defect,Normal
+141,43,Male,0,115,303,FALSE,ST-T Wave Abnormality,181,No,1.2,Upsloping,0,Fixed Defect,Normal
+142,42,Female,Atypical,120,209,FALSE,ST-T Wave Abnormality,173,No,0,Upsloping,0,Fixed Defect,Normal
+143,67,Female,0,106,223,FALSE,ST-T Wave Abnormality,142,No,0.3,Flat,2,Fixed Defect,Normal
+144,76,Female,Atypical,140,197,FALSE,Left Ventricular Hypertrophy,116,No,1.1,Upsloping,0,Fixed Defect,Normal
+145,70,Male,Typical,156,245,FALSE,Normal,143,No,0,Flat,0,Fixed Defect,Normal
+146,44,Female,Atypical,118,242,FALSE,ST-T Wave Abnormality,149,No,0.3,Upsloping,1,Fixed Defect,Normal
+147,60,Female,Non-Anginal,150,240,FALSE,ST-T Wave Abnormality,171,No,0.9,Flat,0,Fixed Defect,Normal
+148,44,Male,Atypical,120,226,FALSE,ST-T Wave Abnormality,169,No,0,Flat,0,Fixed Defect,Normal
+149,42,Male,Atypical,130,180,FALSE,ST-T Wave Abnormality,150,No,0,Flat,0,Fixed Defect,Normal
+150,66,Male,0,160,228,FALSE,Normal,138,No,2.3,Flat,0,Normal,Normal
+151,71,Female,0,112,149,FALSE,ST-T Wave Abnormality,125,No,1.6,Upsloping,0,Fixed Defect,Normal
+152,64,Male,Non-Anginal,170,227,FALSE,Normal,155,No,0.6,Upsloping,0,Reversable Defect,Normal
+153,66,Female,Atypical,146,278,FALSE,Normal,152,No,0,Upsloping,1,Fixed Defect,Normal
+154,39,Female,Atypical,138,220,FALSE,ST-T Wave Abnormality,152,No,0,Upsloping,0,Fixed Defect,Normal
+155,58,Female,0,130,197,FALSE,ST-T Wave Abnormality,131,No,0.6,Upsloping,0,Fixed Defect,Normal
+156,47,Male,Atypical,130,253,FALSE,ST-T Wave Abnormality,179,No,0,Flat,0,Fixed Defect,Normal
+157,35,Male,Typical,122,192,FALSE,ST-T Wave Abnormality,174,No,0,Flat,0,Fixed Defect,Normal
+158,58,Male,Typical,125,220,FALSE,ST-T Wave Abnormality,144,No,0.4,Upsloping,4,Reversable Defect,Normal
+159,56,Male,Typical,130,221,FALSE,Normal,163,No,0,Flat,0,Reversable Defect,Normal
+160,56,Male,Typical,120,240,FALSE,ST-T Wave Abnormality,169,No,0,Missing,0,Fixed Defect,Normal
+161,55,Female,Typical,132,342,FALSE,ST-T Wave Abnormality,166,No,1.2,Flat,0,Fixed Defect,Normal
+162,41,Male,Typical,120,157,FALSE,ST-T Wave Abnormality,182,No,0,Flat,0,Fixed Defect,Normal
+163,38,Male,Atypical,138,175,FALSE,ST-T Wave Abnormality,173,No,0,Flat,4,Fixed Defect,Normal
+164,38,Male,Atypical,138,175,FALSE,ST-T Wave Abnormality,173,No,0,Flat,4,Fixed Defect,Normal
+165,67,Male,0,160,286,FALSE,Normal,108,Yes,1.5,Upsloping,3,Fixed Defect,Probable Heart Disease
+166,67,Male,0,120,229,FALSE,Normal,129,Yes,2.6,Upsloping,2,Reversable Defect,Probable Heart Disease
+167,62,Female,0,140,268,FALSE,Normal,160,No,3.6,Missing,2,Fixed Defect,Probable Heart Disease
+168,63,Male,0,130,254,FALSE,Normal,147,No,1.4,Upsloping,1,Reversable Defect,Probable Heart Disease
+169,53,Male,0,140,203,TRUE,Normal,155,Yes,3.1,Missing,0,Reversable Defect,Probable Heart Disease
+170,56,Male,Atypical,130,256,TRUE,Normal,142,Yes,0.6,Upsloping,1,Normal,Probable Heart Disease
+171,48,Male,Typical,110,229,FALSE,ST-T Wave Abnormality,168,No,1,Missing,0,Reversable Defect,Probable Heart Disease
+172,58,Male,Typical,120,284,FALSE,Normal,160,No,1.8,Upsloping,0,Fixed Defect,Probable Heart Disease
+173,58,Male,Atypical,132,224,FALSE,Normal,173,No,3.2,Flat,2,Reversable Defect,Probable Heart Disease
+174,60,Male,0,130,206,FALSE,Normal,132,Yes,2.4,Upsloping,2,Reversable Defect,Probable Heart Disease
+175,40,Male,0,110,167,FALSE,Normal,114,Yes,2,Upsloping,0,Reversable Defect,Probable Heart Disease
+176,60,Male,0,117,230,TRUE,ST-T Wave Abnormality,160,Yes,1.4,Flat,2,Reversable Defect,Probable Heart Disease
+177,64,Male,Atypical,140,335,FALSE,ST-T Wave Abnormality,158,No,0,Flat,0,Fixed Defect,Probable Heart Disease
+178,43,Male,0,120,177,FALSE,Normal,120,Yes,2.5,Upsloping,0,Reversable Defect,Probable Heart Disease
+179,57,Male,0,150,276,FALSE,Normal,112,Yes,0.6,Upsloping,1,Normal,Probable Heart Disease
+180,55,Male,0,132,353,FALSE,ST-T Wave Abnormality,132,Yes,1.2,Upsloping,1,Reversable Defect,Probable Heart Disease
+181,65,Female,0,150,225,FALSE,Normal,114,No,1,Upsloping,3,Reversable Defect,Probable Heart Disease
+182,61,Female,0,130,330,FALSE,Normal,169,No,0,Flat,0,Fixed Defect,Probable Heart Disease
+183,58,Male,Atypical,112,230,FALSE,Normal,165,No,2.5,Upsloping,1,Reversable Defect,Probable Heart Disease
+184,50,Male,0,150,243,FALSE,Normal,128,No,2.6,Upsloping,0,Reversable Defect,Probable Heart Disease
+185,44,Male,0,112,290,FALSE,Normal,153,No,0,Flat,1,Fixed Defect,Probable Heart Disease
+186,60,Male,0,130,253,FALSE,ST-T Wave Abnormality,144,Yes,1.4,Flat,1,Reversable Defect,Probable Heart Disease
+187,54,Male,0,124,266,FALSE,Normal,109,Yes,2.2,Upsloping,1,Reversable Defect,Probable Heart Disease
+188,50,Male,Atypical,140,233,FALSE,ST-T Wave Abnormality,163,No,0.6,Upsloping,1,Reversable Defect,Probable Heart Disease
+189,41,Male,0,110,172,FALSE,Normal,158,No,0,Flat,0,Reversable Defect,Probable Heart Disease
+190,51,Female,0,130,305,FALSE,ST-T Wave Abnormality,142,Yes,1.2,Upsloping,0,Reversable Defect,Probable Heart Disease
+191,58,Male,0,128,216,FALSE,Normal,131,Yes,2.2,Upsloping,3,Reversable Defect,Probable Heart Disease
+192,54,Male,0,120,188,FALSE,ST-T Wave Abnormality,113,No,1.4,Upsloping,1,Reversable Defect,Probable Heart Disease
+193,60,Male,0,145,282,FALSE,Normal,142,Yes,2.8,Upsloping,2,Reversable Defect,Probable Heart Disease
+194,60,Male,Atypical,140,185,FALSE,Normal,155,No,3,Upsloping,0,Fixed Defect,Probable Heart Disease
+195,59,Male,0,170,326,FALSE,Normal,140,Yes,3.4,Missing,0,Reversable Defect,Probable Heart Disease
+196,46,Male,Atypical,150,231,FALSE,ST-T Wave Abnormality,147,No,3.6,Upsloping,0,Fixed Defect,Probable Heart Disease
+197,67,Male,0,125,254,TRUE,ST-T Wave Abnormality,163,No,0.2,Upsloping,2,Reversable Defect,Probable Heart Disease
+198,62,Male,0,120,267,FALSE,ST-T Wave Abnormality,99,Yes,1.8,Upsloping,2,Reversable Defect,Probable Heart Disease
+199,65,Male,0,110,248,FALSE,Normal,158,No,0.6,Flat,2,Normal,Probable Heart Disease
+200,44,Male,0,110,197,FALSE,Normal,177,No,0,Flat,1,Fixed Defect,Probable Heart Disease
+201,60,Male,0,125,258,FALSE,Normal,141,Yes,2.8,Upsloping,1,Reversable Defect,Probable Heart Disease
+202,58,Male,0,150,270,FALSE,Normal,111,Yes,0.8,Flat,0,Reversable Defect,Probable Heart Disease
+203,68,Male,Atypical,180,274,TRUE,Normal,150,Yes,1.6,Upsloping,0,Reversable Defect,Probable Heart Disease
+204,62,Female,0,160,164,FALSE,Normal,145,No,6.2,Missing,3,Reversable Defect,Probable Heart Disease
+205,52,Male,0,128,255,FALSE,ST-T Wave Abnormality,161,Yes,0,Flat,1,Reversable Defect,Probable Heart Disease
+206,59,Male,0,110,239,FALSE,Normal,142,Yes,1.2,Upsloping,1,Reversable Defect,Probable Heart Disease
+207,60,Female,0,150,258,FALSE,Normal,157,No,2.6,Upsloping,2,Reversable Defect,Probable Heart Disease
+208,49,Male,Atypical,120,188,FALSE,ST-T Wave Abnormality,139,No,2,Upsloping,3,Reversable Defect,Probable Heart Disease
+209,59,Male,0,140,177,FALSE,ST-T Wave Abnormality,162,Yes,0,Flat,1,Reversable Defect,Probable Heart Disease
+210,57,Male,Atypical,128,229,FALSE,Normal,150,No,0.4,Upsloping,1,Reversable Defect,Probable Heart Disease
+211,61,Male,0,120,260,FALSE,ST-T Wave Abnormality,140,Yes,3.6,Upsloping,1,Reversable Defect,Probable Heart Disease
+212,39,Male,0,118,219,FALSE,ST-T Wave Abnormality,140,No,1.2,Upsloping,0,Reversable Defect,Probable Heart Disease
+213,61,Female,0,145,307,FALSE,Normal,146,Yes,1,Upsloping,0,Reversable Defect,Probable Heart Disease
+214,56,Male,0,125,249,TRUE,Normal,144,Yes,1.2,Upsloping,1,Fixed Defect,Probable Heart Disease
+215,43,Female,0,132,341,TRUE,Normal,136,Yes,3,Upsloping,0,Reversable Defect,Probable Heart Disease
+216,62,Female,Atypical,130,263,FALSE,ST-T Wave Abnormality,97,No,1.2,Upsloping,1,Reversable Defect,Probable Heart Disease
+217,63,Male,0,130,330,TRUE,Normal,132,Yes,1.8,Flat,3,Reversable Defect,Probable Heart Disease
+218,65,Male,0,135,254,FALSE,Normal,127,No,2.8,Upsloping,1,Reversable Defect,Probable Heart Disease
+219,48,Male,0,130,256,TRUE,Normal,150,Yes,0,Flat,2,Reversable Defect,Probable Heart Disease
+220,63,Female,0,150,407,FALSE,Normal,154,No,4,Upsloping,3,Reversable Defect,Probable Heart Disease
+221,55,Male,0,140,217,FALSE,ST-T Wave Abnormality,111,Yes,5.6,Missing,0,Reversable Defect,Probable Heart Disease
+222,65,Male,Non-Anginal,138,282,TRUE,Normal,174,No,1.4,Upsloping,1,Fixed Defect,Probable Heart Disease
+223,56,Female,0,200,288,TRUE,Normal,133,Yes,4,Missing,2,Reversable Defect,Probable Heart Disease
+224,54,Male,0,110,239,FALSE,ST-T Wave Abnormality,126,Yes,2.8,Upsloping,1,Reversable Defect,Probable Heart Disease
+225,70,Male,0,145,174,FALSE,ST-T Wave Abnormality,125,Yes,2.6,Missing,0,Reversable Defect,Probable Heart Disease
+226,62,Male,Typical,120,281,FALSE,Normal,103,No,1.4,Upsloping,1,Reversable Defect,Probable Heart Disease
+227,35,Male,0,120,198,FALSE,ST-T Wave Abnormality,130,Yes,1.6,Upsloping,0,Reversable Defect,Probable Heart Disease
+228,59,Male,Non-Anginal,170,288,FALSE,Normal,159,No,0.2,Upsloping,0,Reversable Defect,Probable Heart Disease
+229,64,Male,Atypical,125,309,FALSE,ST-T Wave Abnormality,131,Yes,1.8,Upsloping,0,Reversable Defect,Probable Heart Disease
+230,47,Male,Atypical,108,243,FALSE,ST-T Wave Abnormality,152,No,0,Flat,0,Fixed Defect,Probable Heart Disease
+231,57,Male,0,165,289,TRUE,Normal,124,No,1,Upsloping,3,Reversable Defect,Probable Heart Disease
+232,55,Male,0,160,289,FALSE,Normal,145,Yes,0.8,Upsloping,1,Reversable Defect,Probable Heart Disease
+233,64,Male,0,120,246,FALSE,Normal,96,Yes,2.2,Missing,1,Fixed Defect,Probable Heart Disease
+234,70,Male,0,130,322,FALSE,Normal,109,No,2.4,Upsloping,3,Fixed Defect,Probable Heart Disease
+235,51,Male,0,140,299,FALSE,ST-T Wave Abnormality,173,Yes,1.6,Flat,0,Reversable Defect,Probable Heart Disease
+236,58,Male,0,125,300,FALSE,Normal,171,No,0,Flat,2,Reversable Defect,Probable Heart Disease
+237,60,Male,0,140,293,FALSE,Normal,170,No,1.2,Upsloping,2,Reversable Defect,Probable Heart Disease
+238,77,Male,0,125,304,FALSE,Normal,162,Yes,0,Flat,3,Fixed Defect,Probable Heart Disease
+239,35,Male,0,126,282,FALSE,Normal,156,Yes,0,Flat,0,Reversable Defect,Probable Heart Disease
+240,70,Male,Atypical,160,269,FALSE,ST-T Wave Abnormality,112,Yes,2.9,Upsloping,1,Reversable Defect,Probable Heart Disease
+241,59,Female,0,174,249,FALSE,ST-T Wave Abnormality,143,Yes,0,Upsloping,0,Fixed Defect,Probable Heart Disease
+242,64,Male,0,145,212,FALSE,Normal,132,No,2,Upsloping,2,Normal,Probable Heart Disease
+243,57,Male,0,152,274,FALSE,ST-T Wave Abnormality,88,Yes,1.2,Upsloping,1,Reversable Defect,Probable Heart Disease
+244,56,Male,0,132,184,FALSE,Normal,105,Yes,2.1,Upsloping,1,Normal,Probable Heart Disease
+245,48,Male,0,124,274,FALSE,Normal,166,No,0.5,Upsloping,0,Reversable Defect,Probable Heart Disease
+246,56,Female,0,134,409,FALSE,Normal,150,Yes,1.9,Upsloping,2,Reversable Defect,Probable Heart Disease
+247,66,Male,Typical,160,246,FALSE,ST-T Wave Abnormality,120,Yes,0,Upsloping,3,Normal,Probable Heart Disease
+248,54,Male,Typical,192,283,FALSE,Normal,195,No,0,Flat,1,Reversable Defect,Probable Heart Disease
+249,69,Male,Atypical,140,254,FALSE,Normal,146,No,2,Upsloping,3,Reversable Defect,Probable Heart Disease
+250,51,Male,0,140,298,FALSE,ST-T Wave Abnormality,122,Yes,4.2,Upsloping,3,Reversable Defect,Probable Heart Disease
+251,43,Male,0,132,247,TRUE,Normal,143,Yes,0.1,Upsloping,4,Reversable Defect,Probable Heart Disease
+252,62,Female,0,138,294,TRUE,ST-T Wave Abnormality,106,No,1.9,Upsloping,3,Fixed Defect,Probable Heart Disease
+253,67,Male,0,100,299,FALSE,Normal,125,Yes,0.9,Upsloping,2,Fixed Defect,Probable Heart Disease
+254,59,Male,Non-Anginal,160,273,FALSE,Normal,125,No,0,Flat,0,Fixed Defect,Probable Heart Disease
+255,45,Male,0,142,309,FALSE,Normal,147,Yes,0,Upsloping,3,Reversable Defect,Probable Heart Disease
+256,58,Male,0,128,259,FALSE,Normal,130,Yes,3,Upsloping,2,Reversable Defect,Probable Heart Disease
+257,50,Male,0,144,200,FALSE,Normal,126,Yes,0.9,Upsloping,0,Reversable Defect,Probable Heart Disease
+258,62,Female,0,150,244,FALSE,ST-T Wave Abnormality,154,Yes,1.4,Upsloping,0,Fixed Defect,Probable Heart Disease
+259,38,Male,Non-Anginal,120,231,FALSE,ST-T Wave Abnormality,182,Yes,3.8,Upsloping,0,Reversable Defect,Probable Heart Disease
+260,66,Female,0,178,228,TRUE,ST-T Wave Abnormality,165,Yes,1,Upsloping,2,Reversable Defect,Probable Heart Disease
+261,52,Male,0,112,230,FALSE,ST-T Wave Abnormality,160,No,0,Flat,1,Fixed Defect,Probable Heart Disease
+262,53,Male,0,123,282,FALSE,ST-T Wave Abnormality,95,Yes,2,Upsloping,2,Reversable Defect,Probable Heart Disease
+263,63,Female,0,108,269,FALSE,ST-T Wave Abnormality,169,Yes,1.8,Upsloping,2,Fixed Defect,Probable Heart Disease
+264,54,Male,0,110,206,FALSE,Normal,108,Yes,0,Upsloping,1,Fixed Defect,Probable Heart Disease
+265,66,Male,0,112,212,FALSE,Normal,132,Yes,0.1,Flat,1,Fixed Defect,Probable Heart Disease
+266,55,Female,0,180,327,FALSE,Left Ventricular Hypertrophy,117,Yes,3.4,Upsloping,0,Fixed Defect,Probable Heart Disease
+267,49,Male,Atypical,118,149,FALSE,Normal,126,No,0.8,Flat,3,Fixed Defect,Probable Heart Disease
+268,54,Male,0,122,286,FALSE,Normal,116,Yes,3.2,Upsloping,2,Fixed Defect,Probable Heart Disease
+269,56,Male,0,130,283,TRUE,Normal,103,Yes,1.6,Missing,0,Reversable Defect,Probable Heart Disease
+270,46,Male,0,120,249,FALSE,Normal,144,No,0.8,Flat,0,Reversable Defect,Probable Heart Disease
+271,61,Male,Non-Anginal,134,234,FALSE,ST-T Wave Abnormality,145,No,2.6,Upsloping,2,Fixed Defect,Probable Heart Disease
+272,67,Male,0,120,237,FALSE,ST-T Wave Abnormality,71,No,1,Upsloping,0,Fixed Defect,Probable Heart Disease
+273,58,Male,0,100,234,FALSE,ST-T Wave Abnormality,156,No,0.1,Flat,1,Reversable Defect,Probable Heart Disease
+274,47,Male,0,110,275,FALSE,Normal,118,Yes,1,Upsloping,1,Fixed Defect,Probable Heart Disease
+275,52,Male,0,125,212,FALSE,ST-T Wave Abnormality,168,No,1,Flat,2,Reversable Defect,Probable Heart Disease
+276,58,Male,0,146,218,FALSE,ST-T Wave Abnormality,105,No,2,Upsloping,1,Reversable Defect,Probable Heart Disease
+277,57,Male,Typical,124,261,FALSE,ST-T Wave Abnormality,141,No,0.3,Flat,0,Reversable Defect,Probable Heart Disease
+278,58,Female,Typical,136,319,TRUE,Normal,152,No,0,Flat,2,Fixed Defect,Probable Heart Disease
+279,61,Male,0,138,166,FALSE,Normal,125,Yes,3.6,Upsloping,1,Fixed Defect,Probable Heart Disease
+280,42,Male,0,136,315,FALSE,ST-T Wave Abnormality,125,Yes,1.8,Upsloping,0,Normal,Probable Heart Disease
+281,52,Male,0,128,204,TRUE,ST-T Wave Abnormality,156,Yes,1,Upsloping,0,Missing,Probable Heart Disease
+282,59,Male,Atypical,126,218,TRUE,ST-T Wave Abnormality,134,No,2.2,Upsloping,1,Normal,Probable Heart Disease
+283,40,Male,0,152,223,FALSE,ST-T Wave Abnormality,181,No,0,Flat,0,Reversable Defect,Probable Heart Disease
+284,61,Male,0,140,207,FALSE,Normal,138,Yes,1.9,Flat,1,Reversable Defect,Probable Heart Disease
+285,46,Male,0,140,311,FALSE,ST-T Wave Abnormality,120,Yes,1.8,Upsloping,2,Reversable Defect,Probable Heart Disease
+286,59,Male,Non-Anginal,134,204,FALSE,ST-T Wave Abnormality,162,No,0.8,Flat,2,Fixed Defect,Probable Heart Disease
+287,57,Male,Typical,154,232,FALSE,Normal,164,No,0,Flat,1,Fixed Defect,Probable Heart Disease
+288,57,Male,0,110,335,FALSE,ST-T Wave Abnormality,143,Yes,3,Upsloping,1,Reversable Defect,Probable Heart Disease
+289,55,Female,0,128,205,FALSE,Left Ventricular Hypertrophy,130,Yes,2,Upsloping,1,Reversable Defect,Probable Heart Disease
+290,61,Male,0,148,203,FALSE,ST-T Wave Abnormality,161,No,0,Flat,1,Reversable Defect,Probable Heart Disease
+291,58,Male,0,114,318,FALSE,Left Ventricular Hypertrophy,140,No,4.4,Missing,3,Normal,Probable Heart Disease
+292,58,Female,0,170,225,TRUE,Normal,146,Yes,2.8,Upsloping,2,Normal,Probable Heart Disease
+293,67,Male,Atypical,152,212,FALSE,Normal,150,No,0.8,Upsloping,0,Reversable Defect,Probable Heart Disease
+294,44,Male,0,120,169,FALSE,ST-T Wave Abnormality,144,Yes,2.8,Missing,0,Normal,Probable Heart Disease
+295,63,Male,0,140,187,FALSE,Normal,144,Yes,4,Flat,2,Reversable Defect,Probable Heart Disease
+296,63,Female,0,124,197,FALSE,ST-T Wave Abnormality,136,Yes,0,Upsloping,0,Fixed Defect,Probable Heart Disease
+297,59,Male,0,164,176,TRUE,Normal,90,No,1,Upsloping,2,Normal,Probable Heart Disease
+298,57,Female,0,140,241,FALSE,ST-T Wave Abnormality,123,Yes,0.2,Upsloping,0,Reversable Defect,Probable Heart Disease
+299,45,Male,Non-Anginal,110,264,FALSE,ST-T Wave Abnormality,132,No,1.2,Upsloping,0,Reversable Defect,Probable Heart Disease
+300,68,Male,0,144,193,TRUE,ST-T Wave Abnormality,141,No,3.4,Upsloping,2,Reversable Defect,Probable Heart Disease
+301,57,Male,0,130,131,FALSE,ST-T Wave Abnormality,115,Yes,1.2,Upsloping,1,Reversable Defect,Probable Heart Disease
+302,57,Female,Typical,130,236,FALSE,Normal,174,No,0,Upsloping,1,Fixed Defect,Probable Heart Disease
