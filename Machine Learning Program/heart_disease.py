@@ -7,6 +7,7 @@ import warnings
 warnings.simplefilter('ignore', DeprecationWarning)
 
 from sklearn.externals import joblib
+from tensorflow.keras.models import load_model
 
 age_scaler = joblib.load('age_scaler.sav')
 trestbps_scaler = joblib.load('trestbps_scaler.sav')
@@ -15,7 +16,7 @@ oldpeak_scaler = joblib.load('oldpeak_scaler.sav')
 thalach_scaler = joblib.load('thalach_scaler.sav')
 
 #Load the saved model from the Jupyter Notebook
-model = joblib.load('KNN_model.sav')
+model = load_model('model.h5')
 
 thalach = input('''Maximum Heart Rate Achieved (bpm):
     ''')
@@ -210,7 +211,7 @@ df = df[['thalach',
 'slope_1',
 'slope_2']]
 
-hooray = model.predict(df)
+hooray = model.predict_classes(df)
 
 if hooray == 0:
     print('''Less than 50% Diameter Narrowing
