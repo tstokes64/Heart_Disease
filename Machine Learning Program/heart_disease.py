@@ -18,6 +18,7 @@ thalach_scaler = joblib.load('thalach_scaler.sav')
 #Load the saved model from the Jupyter Notebook
 model = load_model('model.h5')
 
+#First input and initiate dataframe
 thalach = input('''Maximum Heart Rate Achieved (bpm):
     ''')
 df = pd.DataFrame({'thalach': [thalach]})
@@ -27,6 +28,8 @@ oldpeak = input('''ST Depression Induced by Exercise Relative to Rest:
     ''')
 df['oldpeak'] = oldpeak
 
+
+#Make sure that the inputs can only be certain values
 ca = 5
 while True:
     ca = input('''Number of Major Vessels (0-3) Colored by Fluoroscopy:
@@ -183,12 +186,14 @@ while True:
         print("Invalid Sex")
 
 
+#Using the loaded scalers
 df['age'] = age_scaler.transform(df['age'].values.reshape(1,-1))
 df['trestbps'] = trestbps_scaler.transform(df['trestbps'].values.reshape(-1,1))
 df['chol'] = chol_scaler.transform(df['chol'].values.reshape(-1,1))
 df['oldpeak'] = oldpeak_scaler.transform(df['oldpeak'].values.reshape(-1,1))
 df['thalach'] = thalach_scaler.transform(df['thalach'].values.reshape(-1,1))
 
+#Making sure the dataframe columns are in the correct order
 df = df[['thalach',
 'oldpeak',
 'chol',
@@ -211,6 +216,7 @@ df = df[['thalach',
 'slope_1',
 'slope_2']]
 
+#Run the model and pray
 hooray = model.predict_classes(df)
 
 if hooray == 0:
